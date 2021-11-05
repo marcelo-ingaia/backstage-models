@@ -51,3 +51,5 @@ spec:
   lifecycle: experimental
   providesApis:
     - sample-service
+    
+    
